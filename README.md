@@ -5,7 +5,7 @@ In order for the #hideauthor-plugin to work you will need Members Plugin install
 
 STEPS:
 1. Install Members https://wordpress.org/plugins/members/ ;
-2. Add a new role called Hidden Author (hidden_author) and assign it to the user that you want to redirect his profile url.
+2. Add a new role called Hidden Author (hidden_author) and assign it to the user whose profile URL you want to redirect.
 3. Edit line 19 and enter your url (wp_redirect( 'https://wwww.exampleurl.com' change this with your website link );
 4. Zip the plugin and install it.
 
